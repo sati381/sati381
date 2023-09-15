@@ -18,9 +18,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sati381&show_icons=true&locale=en" alt="sati381" /></p>
-
-
 <!--
 **sati381/sati381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
